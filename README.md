@@ -3,12 +3,16 @@
 
 
 </a>
-<h4 align="center">Details</h4>                
+<h4 align="center">Contak</h4>                
 <p align="center">
 
   </a>
    <a href="https://t.me/AvitGanteng">
-   <img src="https://img.shields.io/badge/telegram--blue.svg">
+   <img src="https://img.shields.io/badge/Telegram-%40AvitGanteng-blue">
+   </a>
+</a>
+   <a href="https://www.instagram.com/___taufiksptra">
+   <img src="https://img.shields.io/badge/instagram-%40______taufiksptra-green">
    </a>
 
 
