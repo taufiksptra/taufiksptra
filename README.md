@@ -3,7 +3,7 @@
 
 
 </a>
-<h4 align="center">Contak</h4>                
+<h4 align="center">Contact</h4>                
 <p align="center">
 
   </a>
