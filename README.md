@@ -20,7 +20,7 @@
 
    <a href="https://www.instagram.com/___taufiksptra">
 
-   <img src="https://img.shields.io/badge/instagram-%40______taufiksptra-green">
+   <img src="https://img.shields.io/badge/Facebook-Avit-ff69b4">
 
    </a>
 
