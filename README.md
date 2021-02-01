@@ -16,7 +16,13 @@
    <a href="https://www.instagram.com/___taufiksptra">
    <img src="https://img.shields.io/badge/instagram-%40______taufiksptra-green">
    </a>
+</a>
 
+   <a href="https://www.instagram.com/___taufiksptra">
+
+   <img src="https://img.shields.io/badge/instagram-%40______taufiksptra-green">
+
+   </a>
 
                                                    
                                                         
