@@ -10,7 +10,7 @@
 
   </a>
    <a href="https://t.me/taufiksptra">
-   <img src="https://img.shields.io/badge/Telegram-AvitGanteng-blue">
+   <img src="https://img.shields.io/badge/Telegram-__unknwz-blue">
    </a>
 </a>
    <a href="https://www.instagram.com/___taufiksptra">
