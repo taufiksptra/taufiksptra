@@ -9,7 +9,7 @@
 <p align="center">
 
   </a>
-   <a href="https://t.me/AvitGanteng">
+   <a href="https://t.me/taufiksptra">
    <img src="https://img.shields.io/badge/Telegram-AvitGanteng-blue">
    </a>
 </a>
