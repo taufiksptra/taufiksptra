@@ -1,15 +1,14 @@
 
 
 ### Things I am currently working on: 
-- Bug Hunting 
-- Search webshell everiday
+- Search webshell everiday xD
 
 
 #### Cycle of my life:
-- Sleep()
-- Eat()
-- Ngeshell()
-- Repeat()
+- Sleep
+- Eat
+- Ngeshell
+- Repeat
 
 #### Programming languages and tools: 
 <p>
